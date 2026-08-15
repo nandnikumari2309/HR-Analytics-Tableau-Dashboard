@@ -41,3 +41,13 @@ The Tableau dashboard allows users to interact with the data using filters and v
 ## Conclusion
 
 This dashboard demonstrates how Tableau can be used to transform HR data into interactive visualizations and support data-driven analysis of an organization's workforce.
+
+Author
+Nandni Kumari
+
+Bioengineering and Biotechnology
+Birla Institute of Technology, Mesra
+
+GitHub: https://github.com/nandnikumari2309
+LinkedIn: linkedin.com/in/nandnikumari/
+Email: nandnikumari2305@gmail.com
