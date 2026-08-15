@@ -37,9 +37,6 @@ The Tableau dashboard allows users to interact with the data using filters and v
 * **Data/** – Contains the dataset used for the analysis.
 * **Screenshots/** – Contains screenshots of the completed dashboard.
 
-## Dashboard Preview
-
-![HR Analytics Dashboard](Screenshots/HR%20Dashboard.png)
 
 ## Conclusion
 
